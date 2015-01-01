@@ -1,0 +1,167 @@
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot.dll
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot.pdb
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\App.g.cs
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\MainPage.g.cs
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.g.resources
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.Resources.AppResources.resources
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.csproj.GenerateResource.Cache
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.dll
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.pdb
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\AppManifest.xaml
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot_Debug_AnyCPU.xap
+C:\Users\Pash DeVore\Desktop\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\XapCacheFile.xml
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\ApplicationIcon.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Images\cancel.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Images\check.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Images\feature.settings.png
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot.pdb
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\AppManifest.xaml
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Properties\WMAppManifest.xml
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot_Debug_AnyCPU.xap
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.csprojResolveAssemblyReference.cache
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\App.g.cs
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\MainPage.g.cs
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.g.resources
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.Resources.AppResources.resources
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.csproj.GenerateResource.Cache
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.dll
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.pdb
+E:\CSCI_152\FinalProjectPivot\FinalProjectPivot\obj\Debug\XapCacheFile.xml
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Images\cancel.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Images\check.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Images\feature.settings.png
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot.pdb
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\AppManifest.xaml
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\FinalProjectPivot_Debug_AnyCPU.xap
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\App.g.cs
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\MainPage.g.cs
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.g.resources
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.Resources.AppResources.resources
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.csproj.GenerateResource.Cache
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.dll
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.pdb
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\XapCacheFile.xml
+C:\Users\Pash DeVore\Desktop\FinalProjectPivot\FinalProjectPivot\obj\Debug\FinalProjectPivot.csprojResolveAssemblyReference.cache
