@@ -1,4 +1,4 @@
-# Clear for Window Mobile - A Gesture-based ToDo app
+# Clear for Windows Mobile - A Gesture-based ToDo app
 + Based on the Clear app for iOS by [RealMac Software][realmac]
 
 
